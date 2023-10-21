@@ -26,5 +26,5 @@
 
 ### Graphs:
 * Graphs represent connections between nodes (vertices) through edges.
-* Graph traversal algorithms include BFS & DFS.
+* Graph traversal algorithms such as BFS & DFS.
 
