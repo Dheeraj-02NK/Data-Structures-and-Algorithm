@@ -1,4 +1,4 @@
-# Data-Structures
+# Data-Structures:
 
 ### Arrays and Strings
 * Arrays are collections of elements, while strings are sequences of characters.
